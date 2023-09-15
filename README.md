@@ -1,3 +1,1 @@
-genau,
-schmerzen,
-Learning Spigotdevelopment
+Learning Python, HTML and Java
